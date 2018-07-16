@@ -1,11 +1,11 @@
-<!
+<!DOCTYPE html>
 <html>
 <body>
 
-<h1>10-July france vs belgium</h1>
+<h1>My first PHP page</h1>
 
 <?php
-echo "version 1.0";
+echo "Hello World!";
 ?>
 
 </body>
